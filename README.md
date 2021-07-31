@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on Front-end
-- 🌱 I’m currently learning  [ vueJS, typescript ]
-- 💬 Ask me about : javScript , ReactJS
+- 🌱 I’m currently learning  [ vueJS, Typescript ]
+- 💬 Ask me about : JavaScript , ReactJS
 - 📫 How to reach me: herickcamara851@gmail.com
 
  <div>
